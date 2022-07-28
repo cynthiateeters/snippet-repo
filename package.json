@@ -1,0 +1,23 @@
+{
+  "name": "snippet-repo",
+  "version": "1.0.0",
+  "description": "An 11ty project to hold code snippets",
+  "main": "index.html",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiateeters/snippet-repo.git"
+  },
+  "author": "Cynthia Teeters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cynthiateeters/snippet-repo/issues"
+  },
+  "homepage": "https://github.com/cynthiateeters/snippet-repo#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
